@@ -1,0 +1,22 @@
+{
+  "name": "agenciadeviajes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezmariano/AgenciaDeViajes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezmariano/AgenciaDeViajes/issues"
+  },
+  "homepage": "https://github.com/suarezmariano/AgenciaDeViajes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
